@@ -1,0 +1,7 @@
+id,nombre,correo,ciudad,monto
+1,Ana Perez,ana@example.com,New York,120.50
+2,Juan Lopez,juan@example.com,Bronx,85.00
+2,Juan Lopez,juan@example.com,Bronx,85.00
+3, Maria Diaz ,maria@example.com, Queens ,210.75
+4,,sin-nombre@example.com,New York,50.00
+5,Carlos Ruiz,carlos@example.com,,99.99
